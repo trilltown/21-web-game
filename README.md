@@ -38,3 +38,9 @@ Feel free to include additional div's and elements if they make styling the appl
 * Displays who wins under the buttons as an h2.
 
 **Remember to to read the documentation! Remember to see what response you are receiving.**
+
+## Demo
+![21 web game demonstration]()
+
+## Rubric
+![21 web game rubric](./assets/21-web-game-rubric.png)
