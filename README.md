@@ -40,7 +40,7 @@ Feel free to include additional div's and elements if they make styling the appl
 **Remember to to read the documentation! Remember to see what response you are receiving.**
 
 ## Demo
-![21 web game demonstration]()
+![21 web game demonstration](./assets/21-a.gif)
 
 ## Rubric
 ![21 web game rubric](./assets/21-web-game-rubric.png)
