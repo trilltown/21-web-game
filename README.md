@@ -35,7 +35,8 @@ Feel free to include additional div's and elements if they make styling the appl
 * If not, the current score should be updated to reflect the value of the new card. The two buttons should still be there for the player will choose again.
 * If a player chooses the `STAY` button, three cards from the deck should be fetched and those will be the computer's cards. Display the computer's cards and their score to right of the player's cards in a new div. 
 * If the computer's score, is greater than 21 then display "YOU WIN". If not, whichever score is closer to 21 wins. 
-* Displays who wins under the buttons as an h2.
+* Displays who wins under the game title and remove the buttons.
+* Try to replicate the game's demo CSS as close as possible.
 
 **Remember to to read the documentation! Remember to see what response you are receiving.**
 
