@@ -44,4 +44,4 @@ Feel free to include additional div's and elements if they make styling the appl
 [![Watch the video ](./assets/demo-video-mock.png)](https://www.youtube.com/watch?v=Pg5i0L73ncU)
 
 ## Rubric
-![21 web game rubric](./assets/21-web-game-rubric.png)
+To find the rubric that will be used to grade your work for this assignment, locate this assignment on you Canvas course.
