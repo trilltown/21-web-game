@@ -44,4 +44,4 @@ Feel free to include additional div's and elements if they make styling the appl
 [![Watch the video ](./assets/demo-video-mock.png)](https://www.youtube.com/watch?v=Pg5i0L73ncU)
 
 ## Rubric
-To find the rubric that will be used to grade your work for this assignment, locate this assignment on you Canvas course.
+To find the rubric that will be used to grade your work for this assignment, locate this assignment on your Canvas course.
