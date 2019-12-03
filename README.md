@@ -16,7 +16,7 @@ Feel free to include additional div's and elements if they make styling the appl
 ### Value Of Cards
 - 2-9 = Face Value e.g. 5 of hearts = 5 points, 8 of diamonds = 8 points
 - J,Q,K = 10 points
-- A = 1 point
+- A = 1 point or 11 points
 
 ## Details
 
