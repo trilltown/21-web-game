@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+}
+
+.unhidden {
+    display: block;     
+}
+
+#playerCards {
+    display: flex;
+    flex-direction: row;
+}
+
+#computerCards {
+    display: flex;
+    flex: row;
+}
